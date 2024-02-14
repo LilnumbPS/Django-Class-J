@@ -1,0 +1,16 @@
+/*html{margin:0px;}*/
+/*body{background-color: #e5d5f8;}*/
+
+*{
+    box-sizing:border-box;
+}
+html{
+    font-family:sans-serif;
+}
+body{
+    margin:0px;
+}
+h1,h2,h3{
+    font-family:sans-serif;
+    font-weight:bold;
+}
